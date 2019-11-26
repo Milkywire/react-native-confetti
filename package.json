@@ -1,6 +1,6 @@
 {
-  "name": "rn-confetti",
-  "version": "1.0.0",
+  "name": "@milkywire/rn-confetti",
+  "version": "1.0.0-alpha1",
   "description": "confetti explosions for react native",
   "main": "confetti.js",
   "scripts": {
