@@ -1,0 +1,22 @@
+{
+  "name": "rn-confetti",
+  "version": "1.0.0",
+  "description": "confetti explosions for react native",
+  "main": "confetti.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Milkywire/rn-confetti.git"
+  },
+  "keywords": [
+    "confetti"
+  ],
+  "author": "d-dog@d-dog.se",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Milkywire/rn-confetti/issues"
+  },
+  "homepage": "https://github.com/Milkywire/rn-confetti#readme"
+}
