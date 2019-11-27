@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import { View, StyleSheet } from "react-native";
 import PropTypes from "prop-types";
-import { colors } from "../lib/styleguide";
 
 const defaultColors = ["#ff0000", "#00ff00", "#0000ff"];
 

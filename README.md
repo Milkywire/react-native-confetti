@@ -15,7 +15,7 @@ A confetti that fires every at a certain interval
 
 ```js
 
-import Confetti from '@milkywire/rn-confett';
+import Confetti from '@milkywire/rn-confetti';
 
 function ConfettiInterval({ interval }) {
   const [active, setActive] = useState(false);
