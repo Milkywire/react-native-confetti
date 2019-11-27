@@ -1,6 +1,6 @@
 {
   "name": "@milkywire/react-native-confetti",
-  "version": "1.0.0-alpha1",
+  "version": "1.0.0",
   "description": "confetti for react native",
   "main": "confetti.js",
   "scripts": {
