@@ -6,12 +6,11 @@ This is a port of [react-dom-confetti](https://github.com/daniel-lundin/react-do
 
 ## Installation
 
-`npm install @milkywire/react-native-confetti`
+`npm install --save @milkywire/react-native-confetti`
 
 ## Usage
 
-
-A confetti that fires every at a certain interval
+A confetti that fires every at a certain interval:
 
 ```js
 
