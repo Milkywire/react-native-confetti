@@ -4,6 +4,8 @@ Finally a good confetti for React Native!
 
 This is a port of [react-dom-confetti](https://github.com/daniel-lundin/react-dom-confetti) so all parameters from there are supported
 
+![demo.gif](demo.gif)
+
 ## Installation
 
 `npm install --save @milkywire/react-native-confetti`
