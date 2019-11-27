@@ -1,4 +1,4 @@
-# rn-confetti
+# react-native-confetti
 
 Finally a good confetti for React Native!
 
@@ -6,7 +6,7 @@ This is a port of [react-dom-confetti](https://github.com/daniel-lundin/react-do
 
 ## Installation
 
-`npm install @milkywire/rn-confetti`
+`npm install @milkywire/react-native-confetti`
 
 ## Usage
 
@@ -15,7 +15,7 @@ A confetti that fires every at a certain interval
 
 ```js
 
-import Confetti from '@milkywire/rn-confetti';
+import Confetti from '@milkywire/react-native-confetti';
 
 function ConfettiInterval({ interval }) {
   const [active, setActive] = useState(false);
